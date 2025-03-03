@@ -8,17 +8,51 @@
 
 /* Begin PBXBuildFile section */
 		2C7772942D75C9C400380908 /* shorApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C7772932D75C9C400380908 /* shorApp.swift */; };
-		2C7772962D75C9C400380908 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C7772952D75C9C400380908 /* ContentView.swift */; };
 		2C7772982D75C9C700380908 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2C7772972D75C9C700380908 /* Assets.xcassets */; };
 		2C77729B2D75C9C700380908 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2C77729A2D75C9C700380908 /* Preview Assets.xcassets */; };
+		2C7772C02D75CDD900380908 /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C7772BF2D75CDD900380908 /* Model.swift */; };
+		2C7772C42D75CE0700380908 /* ComplaintsBotVM.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C7772C32D75CE0700380908 /* ComplaintsBotVM.swift */; };
+		2C7772C62D75CE1F00380908 /* SalariesBotVM.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C7772C52D75CE1F00380908 /* SalariesBotVM.swift */; };
+		2C7772C82D75CE3E00380908 /* MainPageVM.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C7772C72D75CE3E00380908 /* MainPageVM.swift */; };
+		2C7772CA2D75CE5600380908 /* VacationsBotVM.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C7772C92D75CE5600380908 /* VacationsBotVM.swift */; };
+		2C7772CC2D75CE6800380908 /* WorkingHoursBotVM.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C7772CB2D75CE6800380908 /* WorkingHoursBotVM.swift */; };
+		2C7772CE2D75CE8800380908 /* ContractsBotVM.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C7772CD2D75CE8800380908 /* ContractsBotVM.swift */; };
+		2C7772D02D75CE9D00380908 /* WomenDisabilityBotVM.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C7772CF2D75CE9D00380908 /* WomenDisabilityBotVM.swift */; };
+		2C7772D42D75CECA00380908 /* ViolationsBotVM.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C7772D32D75CECA00380908 /* ViolationsBotVM.swift */; };
+		2C7772D62D75CF4D00380908 /* MainPageV.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C7772D52D75CF4D00380908 /* MainPageV.swift */; };
+		2C7772D82D75CF7C00380908 /* SalariesBotV.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C7772D72D75CF7C00380908 /* SalariesBotV.swift */; };
+		2C7772DA2D75CF9200380908 /* VacationsBotV.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C7772D92D75CF9200380908 /* VacationsBotV.swift */; };
+		2C7772DC2D75CFED00380908 /* WorkingHoursBotV.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C7772DB2D75CFED00380908 /* WorkingHoursBotV.swift */; };
+		2C7772DE2D75D00400380908 /* ContractsBotV.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C7772DD2D75D00400380908 /* ContractsBotV.swift */; };
+		2C7772E02D75D01500380908 /* WomenDisabilityBotV.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C7772DF2D75D01500380908 /* WomenDisabilityBotV.swift */; };
+		2C7772E22D75D02400380908 /* ComplaintsBotV.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C7772E12D75D02400380908 /* ComplaintsBotV.swift */; };
+		2C7772E42D75D03500380908 /* ViolationsBotV.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C7772E32D75D03500380908 /* ViolationsBotV.swift */; };
+		2C7772E62D75D05900380908 /* SplashV.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C7772E52D75D05900380908 /* SplashV.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		2C7772902D75C9C400380908 /* shor.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = shor.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2C7772932D75C9C400380908 /* shorApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = shorApp.swift; sourceTree = "<group>"; };
-		2C7772952D75C9C400380908 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		2C7772972D75C9C700380908 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2C77729A2D75C9C700380908 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		2C7772BF2D75CDD900380908 /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
+		2C7772C32D75CE0700380908 /* ComplaintsBotVM.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ComplaintsBotVM.swift; sourceTree = "<group>"; };
+		2C7772C52D75CE1F00380908 /* SalariesBotVM.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SalariesBotVM.swift; sourceTree = "<group>"; };
+		2C7772C72D75CE3E00380908 /* MainPageVM.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainPageVM.swift; sourceTree = "<group>"; };
+		2C7772C92D75CE5600380908 /* VacationsBotVM.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VacationsBotVM.swift; sourceTree = "<group>"; };
+		2C7772CB2D75CE6800380908 /* WorkingHoursBotVM.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WorkingHoursBotVM.swift; sourceTree = "<group>"; };
+		2C7772CD2D75CE8800380908 /* ContractsBotVM.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContractsBotVM.swift; sourceTree = "<group>"; };
+		2C7772CF2D75CE9D00380908 /* WomenDisabilityBotVM.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WomenDisabilityBotVM.swift; sourceTree = "<group>"; };
+		2C7772D32D75CECA00380908 /* ViolationsBotVM.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViolationsBotVM.swift; sourceTree = "<group>"; };
+		2C7772D52D75CF4D00380908 /* MainPageV.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainPageV.swift; sourceTree = "<group>"; };
+		2C7772D72D75CF7C00380908 /* SalariesBotV.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SalariesBotV.swift; sourceTree = "<group>"; };
+		2C7772D92D75CF9200380908 /* VacationsBotV.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VacationsBotV.swift; sourceTree = "<group>"; };
+		2C7772DB2D75CFED00380908 /* WorkingHoursBotV.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WorkingHoursBotV.swift; sourceTree = "<group>"; };
+		2C7772DD2D75D00400380908 /* ContractsBotV.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContractsBotV.swift; sourceTree = "<group>"; };
+		2C7772DF2D75D01500380908 /* WomenDisabilityBotV.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WomenDisabilityBotV.swift; sourceTree = "<group>"; };
+		2C7772E12D75D02400380908 /* ComplaintsBotV.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ComplaintsBotV.swift; sourceTree = "<group>"; };
+		2C7772E32D75D03500380908 /* ViolationsBotV.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViolationsBotV.swift; sourceTree = "<group>"; };
+		2C7772E52D75D05900380908 /* SplashV.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplashV.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,9 +85,9 @@
 		2C7772922D75C9C400380908 /* shor */ = {
 			isa = PBXGroup;
 			children = (
-				2C7772932D75C9C400380908 /* shorApp.swift */,
-				2C7772952D75C9C400380908 /* ContentView.swift */,
-				2C7772972D75C9C700380908 /* Assets.xcassets */,
+				2C7772A12D75C9F800380908 /* View */,
+				2C7772A42D75CA1800380908 /* ViewModel */,
+				2C7772A22D75CA0500380908 /* Model */,
 				2C7772992D75C9C700380908 /* Preview Content */,
 			);
 			path = shor;
@@ -62,9 +96,50 @@
 		2C7772992D75C9C700380908 /* Preview Content */ = {
 			isa = PBXGroup;
 			children = (
+				2C7772972D75C9C700380908 /* Assets.xcassets */,
 				2C77729A2D75C9C700380908 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		2C7772A12D75C9F800380908 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				2C7772932D75C9C400380908 /* shorApp.swift */,
+				2C7772E52D75D05900380908 /* SplashV.swift */,
+				2C7772D52D75CF4D00380908 /* MainPageV.swift */,
+				2C7772D72D75CF7C00380908 /* SalariesBotV.swift */,
+				2C7772D92D75CF9200380908 /* VacationsBotV.swift */,
+				2C7772DB2D75CFED00380908 /* WorkingHoursBotV.swift */,
+				2C7772DD2D75D00400380908 /* ContractsBotV.swift */,
+				2C7772DF2D75D01500380908 /* WomenDisabilityBotV.swift */,
+				2C7772E12D75D02400380908 /* ComplaintsBotV.swift */,
+				2C7772E32D75D03500380908 /* ViolationsBotV.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		2C7772A22D75CA0500380908 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				2C7772BF2D75CDD900380908 /* Model.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		2C7772A42D75CA1800380908 /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+				2C7772C72D75CE3E00380908 /* MainPageVM.swift */,
+				2C7772C52D75CE1F00380908 /* SalariesBotVM.swift */,
+				2C7772C92D75CE5600380908 /* VacationsBotVM.swift */,
+				2C7772CB2D75CE6800380908 /* WorkingHoursBotVM.swift */,
+				2C7772CD2D75CE8800380908 /* ContractsBotVM.swift */,
+				2C7772CF2D75CE9D00380908 /* WomenDisabilityBotVM.swift */,
+				2C7772C32D75CE0700380908 /* ComplaintsBotVM.swift */,
+				2C7772D32D75CECA00380908 /* ViolationsBotVM.swift */,
+			);
+			path = ViewModel;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -137,8 +212,25 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2C7772962D75C9C400380908 /* ContentView.swift in Sources */,
 				2C7772942D75C9C400380908 /* shorApp.swift in Sources */,
+				2C7772C62D75CE1F00380908 /* SalariesBotVM.swift in Sources */,
+				2C7772C42D75CE0700380908 /* ComplaintsBotVM.swift in Sources */,
+				2C7772E02D75D01500380908 /* WomenDisabilityBotV.swift in Sources */,
+				2C7772C82D75CE3E00380908 /* MainPageVM.swift in Sources */,
+				2C7772D02D75CE9D00380908 /* WomenDisabilityBotVM.swift in Sources */,
+				2C7772C02D75CDD900380908 /* Model.swift in Sources */,
+				2C7772D62D75CF4D00380908 /* MainPageV.swift in Sources */,
+				2C7772E62D75D05900380908 /* SplashV.swift in Sources */,
+				2C7772CC2D75CE6800380908 /* WorkingHoursBotVM.swift in Sources */,
+				2C7772DC2D75CFED00380908 /* WorkingHoursBotV.swift in Sources */,
+				2C7772E22D75D02400380908 /* ComplaintsBotV.swift in Sources */,
+				2C7772CE2D75CE8800380908 /* ContractsBotVM.swift in Sources */,
+				2C7772E42D75D03500380908 /* ViolationsBotV.swift in Sources */,
+				2C7772D42D75CECA00380908 /* ViolationsBotVM.swift in Sources */,
+				2C7772DE2D75D00400380908 /* ContractsBotV.swift in Sources */,
+				2C7772CA2D75CE5600380908 /* VacationsBotVM.swift in Sources */,
+				2C7772D82D75CF7C00380908 /* SalariesBotV.swift in Sources */,
+				2C7772DA2D75CF9200380908 /* VacationsBotV.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -11,7 +11,7 @@ import SwiftUI
 struct shorApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            SplashV()
         }
     }
 }
