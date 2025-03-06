@@ -28,6 +28,7 @@
 		2C7772E22D75D02400380908 /* ComplaintsBotV.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C7772E12D75D02400380908 /* ComplaintsBotV.swift */; };
 		2C7772E42D75D03500380908 /* ViolationsBotV.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C7772E32D75D03500380908 /* ViolationsBotV.swift */; };
 		2C7772E62D75D05900380908 /* SplashV.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C7772E52D75D05900380908 /* SplashV.swift */; };
+		AF3920E62D79CACF00EAC17A /* shadentest.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF3920E52D79CAC900EAC17A /* shadentest.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -53,6 +54,7 @@
 		2C7772E12D75D02400380908 /* ComplaintsBotV.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ComplaintsBotV.swift; sourceTree = "<group>"; };
 		2C7772E32D75D03500380908 /* ViolationsBotV.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViolationsBotV.swift; sourceTree = "<group>"; };
 		2C7772E52D75D05900380908 /* SplashV.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplashV.swift; sourceTree = "<group>"; };
+		AF3920E52D79CAC900EAC17A /* shadentest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = shadentest.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 			isa = PBXGroup;
 			children = (
 				2C7772932D75C9C400380908 /* shorApp.swift */,
+				AF3920E52D79CAC900EAC17A /* shadentest.swift */,
 				2C7772E52D75D05900380908 /* SplashV.swift */,
 				2C7772D52D75CF4D00380908 /* MainPageV.swift */,
 				2C7772D72D75CF7C00380908 /* SalariesBotV.swift */,
@@ -230,6 +233,7 @@
 				2C7772DE2D75D00400380908 /* ContractsBotV.swift in Sources */,
 				2C7772CA2D75CE5600380908 /* VacationsBotVM.swift in Sources */,
 				2C7772D82D75CF7C00380908 /* SalariesBotV.swift in Sources */,
+				AF3920E62D79CACF00EAC17A /* shadentest.swift in Sources */,
 				2C7772DA2D75CF9200380908 /* VacationsBotV.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -364,6 +368,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"shor/Preview Content\"";
+				DEVELOPMENT_TEAM = 8F9CB8ABM7;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -392,6 +397,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"shor/Preview Content\"";
+				DEVELOPMENT_TEAM = 8F9CB8ABM7;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
